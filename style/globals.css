@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+input[type="checkbox"] {
+    -webkit-appearance: none;
+    /* remove default appearance on Webkit-based browsers */
+    -moz-appearance: none;
+    /* remove default appearance on Mozilla-based browsers */
+    appearance: none;
+    /* remove default appearance on all other browsers */
+}
+
+input[type="checkbox"]:checked {
+    -webkit-appearance: auto;
+    /* remove default appearance on Webkit-based browsers */
+    -moz-appearance: auto;
+    /* remove default appearance on Mozilla-based browsers */
+    appearance: auto;
+    /* remove default appearance on all other browsers */
+}
