@@ -10,13 +10,13 @@
 
 ### 💻 Projeto:
 
-Este projeto consiste em um sistema para o nicho de empreendedor, nele o usuário coloca todas as redes sociais, bem parecido com um linktree.
+Este projeto consiste em um sistema para agrupar os links de todas as redes socias, bem parecido com um linktree.
 
 <br /> <br />
 
 ### 🎯 Objetivo:
 
-Criar um site que exibe diversos links ao mesmo tempo.
+Criar um site que exibe todas as redes sociais de uma empresa.
 
 
 <br /> <br />
