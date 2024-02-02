@@ -32,6 +32,8 @@ Criar um site que exibe diversos links ao mesmo tempo.
 
 ### 📷 Tela principal:
 
-Uploading Desktop 2024.01.23 - 18.17.07.04.mp4…
+
+https://github.com/LucasTKP/LinksJ-/assets/101598532/6f9dd058-e122-4ea7-a758-2a758e512182
+
 
 <br />
