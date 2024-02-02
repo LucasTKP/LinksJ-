@@ -33,7 +33,7 @@ Criar um site que exibe diversos links ao mesmo tempo.
 ### 📷 Tela principal:
 
 
-https://github.com/LucasTKP/LinksJ-/assets/101598532/4d118a82-f5cb-48ce-bf9d-4c862bba052b
+https://github.com/LucasTKP/LinksJ-/assets/101598532/8239a76b-b7cf-40f0-b987-fbe68d010763
 
 
 <br />
